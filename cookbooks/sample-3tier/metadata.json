@@ -1,0 +1,29 @@
+{
+  "suggestions": {
+  },
+  "recipes": {
+  },
+  "name": "sample-3tier",
+  "replacing": {
+  },
+  "platforms": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "license": "All rights reserved",
+  "providing": {
+  },
+  "conflicting": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "groupings": {
+  },
+  "dependencies": {
+  },
+  "version": "0.0.1",
+  "attributes": {
+  },
+  "recommendations": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "description": "Installs/Configures sample-3tier"
+}
